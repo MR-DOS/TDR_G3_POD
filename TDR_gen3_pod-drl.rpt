@@ -1,0 +1,28 @@
+Drill report for /home/msboss/Documents/kicad/project/TDR_gen3_pod/TDR_gen3_pod.kicad_pcb
+Created on Čt 5. března 2020, 21:15:14 CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'TDR_gen3_pod-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,15mm  0,006"  (25 holes)
+    T2  0,20mm  0,008"  (193 holes)
+    T3  0,30mm  0,012"  (88 holes)
+    T4  2,20mm  0,087"  (2 holes)
+    T5  3,20mm  0,126"  (4 holes)
+
+    Total plated holes count 312
+
+
+Drill file 'TDR_gen3_pod-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
